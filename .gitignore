@@ -1,0 +1,14 @@
+# Eclipse project files
+.buildpath
+.project
+.settings
+
+# composer stuff
+/vendor
+
+# project configuration file
+.env
+config.php
+
+# uploads folder
+/uploads
