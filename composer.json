@@ -1,14 +1,22 @@
 {
-	"name" : "ilhooq/piko-project",
-	"description" : "Skeletton for a Piko based project.",
+	"name" : "piko/page-builder",
+	"description" : "A minimal CMS to build pages directly in the browser.",
 	"keywords" : [
-		"yii2",
-		"project",
 		"piko",
-		"micro-framework"
+		"project",
+		"grapejs",
+		"micro-framework",
+		"page-builder",
+		"page builder"
+	],
+	"authors" : [{
+			"name" : "Sylvain Philip",
+			"homepage" : "https://www.sphilip.com",
+			"role" : "Developer"
+		}
 	],
 	"type" : "project",
-	"license" : "MIT",
+	"license" : "LGPL-3.0",
 	"require" : {
 		"ilhooq/piko" : "^0.8",
 		"kaoz70/grapesjs-blocks-bootstrap4" : "0.1",

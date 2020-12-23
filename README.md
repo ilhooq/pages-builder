@@ -29,5 +29,5 @@ PIKO_ENV          = dev
 
 ### Contact form
 
-To integrate a contact form, you can insert this code : `{{CONTACT_FORM}}` In your page.
+To integrate a contact form in your web page, you can insert this code : `{{CONTACT_FORM}}` when you edit your page.
 
