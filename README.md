@@ -1,6 +1,6 @@
-# Piko page builder
+# Piko pages builder
 
-Piko page builder is a minimal CMS to manage and build web pages directly in the brower using [GrapeJs](https://github.com/artf/grapesjs).
+Piko pages builder is a minimal CMS to manage and build web pages directly in the brower using [GrapeJs](https://github.com/artf/grapesjs).
 
 ## Installation
 

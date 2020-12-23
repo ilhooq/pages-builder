@@ -1,5 +1,5 @@
 {
-	"name" : "piko/page-builder",
+	"name" : "piko/pages-builder",
 	"description" : "A minimal CMS to build pages directly in the browser.",
 	"keywords" : [
 		"piko",
@@ -9,6 +9,7 @@
 		"page-builder",
 		"page builder"
 	],
+	"homepage" : "https://github.com/piko-framework/pages-builder",
 	"authors" : [{
 			"name" : "Sylvain Philip",
 			"homepage" : "https://www.sphilip.com",
