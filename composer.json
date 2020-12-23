@@ -19,7 +19,7 @@
 	"type" : "project",
 	"license" : "LGPL-3.0",
 	"require" : {
-		"ilhooq/piko" : "^0.8",
+		"piko/framework" : "^0.8",
 		"kaoz70/grapesjs-blocks-bootstrap4" : "0.1",
 		"artf/grapesjs-custom-code" : "0.1.3",
 		"bower-asset/grapesjs" : "^0.16.27",

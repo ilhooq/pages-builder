@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "49c3c34d286f1e501c7c8f1429b284a6",
+    "content-hash": "7014848151f7f741c14c54c2031ca187",
     "packages": [
         {
             "name": "artf/grapesjs-custom-code",
@@ -51,7 +51,7 @@
             "version": "3.5.1",
             "source": {
                 "type": "git",
-                "url": "git@github.com:jquery/jquery-dist.git",
+                "url": "https://github.com/jquery/jquery-dist.git",
                 "reference": "4c0e4becb8263bb5b3e6dadc448d8e7305ef8215"
             },
             "dist": {
@@ -65,7 +65,17 @@
             ]
         },
         {
-            "name": "ilhooq/piko",
+            "name": "kaoz70/grapesjs-blocks-bootstrap4",
+            "version": "0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/kaoz70/grapesjs-blocks-bootstrap4.git",
+                "reference": "master"
+            },
+            "type": "library"
+        },
+        {
+            "name": "piko/framework",
             "version": "v0.8.2",
             "source": {
                 "type": "git",
@@ -107,16 +117,6 @@
                 "source": "https://github.com/piko-framework/piko/tree/v0.8.2"
             },
             "time": "2020-12-14T00:59:44+00:00"
-        },
-        {
-            "name": "kaoz70/grapesjs-blocks-bootstrap4",
-            "version": "0.1",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/kaoz70/grapesjs-blocks-bootstrap4.git",
-                "reference": "master"
-            },
-            "type": "library"
         }
     ],
     "packages-dev": [],
