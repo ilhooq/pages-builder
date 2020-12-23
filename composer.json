@@ -33,7 +33,6 @@
 	},
 	"scripts" : {
 		"post-install-cmd" : "app\\Composer::postInstall",
-		"post-create-project-cmd" : "php -r \"copy('config-example.php', 'config.php');\""
 	},
 	"repositories" : [{
 			"type" : "package",

@@ -37,6 +37,7 @@ class Composer
             ASSETS_DIR . '/js/grapesjs-custom-code.min.js'
         );
 
+        self::rmDir(__DIR__ . '/vendor/artf');
         self::rmDir(__DIR__ . '/vendor/bower-asset');
         self::rmDir(__DIR__ . '/vendor/kaoz70');
     }
